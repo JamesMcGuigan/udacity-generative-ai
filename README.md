@@ -12,3 +12,12 @@
   ](https://www.sciencedirect.com/science/article/pii/S2949882123000063)
 - [Udacity Course: Small Datasets in Machine Learning
   ](https://www.udacity.com/course/small-data--cd12528)
+
+
+
+## Papers
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)
+  - [tensor2tensor](https://github.com/tensorflow/tensor2tensor)
+  - [Word Embeddings, WordPiece and Language-Agnostic BERT (LaBSE)](https://medium.com/mlearning-ai/word-embeddings-wordpiece-and-language-agnostic-bert-labse-98c7626878c7)
+  - [YouTube: Attention Is All You Need - Paper Explained](https://www.youtube.com/watch?v=XowwKOAWYoQ&ab_channel=HalflingWizard)
+  - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
