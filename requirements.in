@@ -19,3 +19,5 @@ numpy
 pandas
 transformers
 torch
+scikit-learn
+matplotlib
