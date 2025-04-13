@@ -39,6 +39,7 @@ if __name__ == '__main__':
     model = MLP(input_size=2)
     loss_function = nn.MSELoss()
 
+    # Training Loop
     for lr in [0.001, 0.0001, 0.00001 ]:
         optimizer = optim.Adam(model.parameters(), lr=lr) # 0.00001
         for epoch in range(100):
