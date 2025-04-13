@@ -21,3 +21,6 @@
   - [Word Embeddings, WordPiece and Language-Agnostic BERT (LaBSE)](https://medium.com/mlearning-ai/word-embeddings-wordpiece-and-language-agnostic-bert-labse-98c7626878c7)
   - [YouTube: Attention Is All You Need - Paper Explained](https://www.youtube.com/watch?v=XowwKOAWYoQ&ab_channel=HalflingWizard)
   - [The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)
+
+## Links
+- [Pytorch Quickstart Tutorial](https://pytorch.org/tutorials/beginner/basics/quickstart_tutorial.html)
