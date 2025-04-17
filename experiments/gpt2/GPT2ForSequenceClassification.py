@@ -29,13 +29,13 @@
 #   (lm_head): Linear(in_features=768, out_features=50257, bias=False)
 # )
 import torch
-from transformers import GPT2LMHeadModel, GPT2Tokenizer, AutoModelForSequenceClassification
+from transformers import GPT2LMHeadModel, GPT2Tokenizer, GPT2ForSequenceClassification, AutoModelForSequenceClassification
 
 # 1. Load model & tokenizer
 model_name = "gpt2"
-tokenizer = GPT2Tokenizer.from_pretrained(model_name)
-# model     = GPT2LMHeadModel.from_pretrained(model_name)
-model     = AutoModelForSequenceClassification.from_pretrained(model_name)
+tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
+tokenizer.pad_token = tokenizer.eos_token
+model     = GPT2ForSequenceClassification.from_pretrained("gpt2", num_labels=2)
 
 # 2. (Optional) Move model to GPU if available
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -43,11 +43,11 @@ model.to(device)
 
 def generate_text(
     prompt: str,
-    max_length: int = 50,
-    num_return_sequences: int = 1,
-    temperature: float = 1.0,
-    top_k: int = 50,
-    top_p: float = 0.95,
+    # max_length: int = 50,
+    # num_return_sequences: int = 1,
+    # temperature: float = 1.0,
+    # top_k: int = 50,
+    # top_p: float = 0.95,
 ) -> list[str]:
     """
     Generates text continuations for a given prompt.
@@ -65,34 +65,28 @@ def generate_text(
     """
     # Tokenize input and move to device
     inputs = tokenizer(prompt, return_tensors="pt")
-    input_ids = inputs.input_ids.to(device)
-    attention_mask = inputs.attention_mask.to(device)
+    # input_ids = inputs.input_ids.to(device)
+    # attention_mask = inputs.attention_mask.to(device)
 
-    # Generate
-    outputs = model.generate(
-        input_ids=input_ids,
-        attention_mask=attention_mask,
-        max_length=max_length,
-        temperature=temperature,
-        top_k=top_k,
-        top_p=top_p,
-        do_sample=True,
-        num_return_sequences=num_return_sequences,
-        pad_token_id=tokenizer.eos_token_id,
-    )
 
-    # Decode and return
-    results = []
-    for generated_ids in outputs:
-        text = tokenizer.decode(generated_ids, skip_special_tokens=True)
-        results.append(text)
-    return results
+
+    inputs = tokenizer("This is great!", return_tensors="pt", padding=True)
+    logits = model(**inputs).logits
+    # Convert to probability
+    probs = torch.sigmoid(logits)
+
+    # Optional threshold (usually 0.5)
+    predicted_class = (probs > 0.5).long()
+    predicted_bool  = torch.argmax(predicted_class, dim=-1).item()
+
+    # print(logits)
+    # print(probs)
+    # print(predicted_class)
+    # print(predicted_bool)
+
+    return predicted_bool
 
 # Example usage
 if __name__ == "__main__":
     prompt_text = "Once upon a time"
-    continuations = generate_text(prompt_text, max_length=120, num_return_sequences=2)
-    for i, cont in enumerate(continuations, 1):
-        print(f"=== Generated #{i} ===")
-        print(cont)
-        print()
+    continuations = generate_text(prompt_text)
