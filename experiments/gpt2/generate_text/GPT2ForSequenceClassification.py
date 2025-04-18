@@ -43,11 +43,6 @@ model.to(device)
 
 def generate_text(
     prompt: str,
-    # max_length: int = 50,
-    # num_return_sequences: int = 1,
-    # temperature: float = 1.0,
-    # top_k: int = 50,
-    # top_p: float = 0.95,
 ) -> list[str]:
     """
     Generates text continuations for a given prompt.
@@ -63,27 +58,13 @@ def generate_text(
     Returns:
         A list of generated strings (length = num_return_sequences).
     """
-    # Tokenize input and move to device
-    inputs = tokenizer(prompt, return_tensors="pt")
-    # input_ids = inputs.input_ids.to(device)
-    # attention_mask = inputs.attention_mask.to(device)
-
-
-
     inputs = tokenizer("This is great!", return_tensors="pt", padding=True)
     logits = model(**inputs).logits
-    # Convert to probability
-    probs = torch.sigmoid(logits)
+    probs  = torch.sigmoid(logits)
 
     # Optional threshold (usually 0.5)
     predicted_class = (probs > 0.5).long()
     predicted_bool  = torch.argmax(predicted_class, dim=-1).item()
-
-    # print(logits)
-    # print(probs)
-    # print(predicted_class)
-    # print(predicted_bool)
-
     return predicted_bool
 
 # Example usage
