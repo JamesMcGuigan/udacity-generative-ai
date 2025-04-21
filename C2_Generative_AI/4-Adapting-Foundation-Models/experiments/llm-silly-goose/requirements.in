@@ -1,0 +1,12 @@
+# https://github.com/Hannibal046/Awesome-LLM
+# https://github.com/eugeneyan/open-llms
+# https://github.com/BlinkDL/RWKV-LM
+# https://huggingface.co/stabilityai/stablelm-2-12b
+# https://github.com/huggingface/datatrove/
+# https://filesystem-spec.readthedocs.io/en/latest/usage.html
+
+datatrove
+fsspec
+pypeln
+PyFunctional
+Pillow

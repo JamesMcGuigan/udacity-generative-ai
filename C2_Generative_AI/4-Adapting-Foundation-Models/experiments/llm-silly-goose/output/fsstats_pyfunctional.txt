@@ -1,0 +1,32 @@
+[
+    {
+        "file": "/Users/david.bellamy/pCloudSync/code/llm-silly-goose/input/silly_goose_0.png",
+        "width": 1312,
+        "height": 736,
+        "size": 1659642
+    },
+    {
+        "file": "/Users/david.bellamy/pCloudSync/code/llm-silly-goose/input/silly_goose_1.png",
+        "width": 1024,
+        "height": 1536,
+        "size": 2823566
+    },
+    {
+        "file": "/Users/david.bellamy/pCloudSync/code/llm-silly-goose/input/silly_goose_2.png",
+        "width": 1024,
+        "height": 1536,
+        "size": 3275720
+    },
+    {
+        "file": "/Users/david.bellamy/pCloudSync/code/llm-silly-goose/input/silly_goose_3.png",
+        "width": 1024,
+        "height": 1536,
+        "size": 2756657
+    },
+    {
+        "file": "/Users/david.bellamy/pCloudSync/code/llm-silly-goose/input/silly_goose_4.png",
+        "width": 1536,
+        "height": 1024,
+        "size": 3019410
+    }
+]
