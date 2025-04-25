@@ -15,7 +15,7 @@ def main():
         .to_list()
     )
     print(stats)
-    with open('./output/fsstats_pyfunctional.txt', 'w') as json_file:
+    with open('output/fsstats_pyfunctional.txt', 'w') as json_file:
         json.dump(stats, json_file, indent=4)
 
 def get_image_stats(filename):
