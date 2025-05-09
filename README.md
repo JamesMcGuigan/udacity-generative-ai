@@ -28,3 +28,6 @@
 
 ## Datasets
 - https://github.com/awesomedata/awesome-public-datasets
+
+## Tools
+- https://console.cloud.google.com/vertex-ai/studio/overview?project=vertex-ai-417502
