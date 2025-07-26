@@ -1,4 +1,5 @@
 import os
+import yaml
 from langchain.llms import OpenAI
 from dotenv import load_dotenv
 
@@ -41,13 +42,27 @@ Neighborhood Description: Green Oaks is a close-knit, environmentally-conscious 
 ---
 """
 
-# Generate the listings
-responses = []
-for i in range(10):
-    response = llm(prompt)
-    responses.append( response )
-    print(response)
+# Convert --- separated yaml into objects
+def read_listings(file='listings.txt'):
+    with open(file, 'r', encoding='utf-8') as f:
+        listings = f.read().strip().split('---')
+        parsed_listings = [ yaml.safe_load(listing)
+                            for listing in listings
+                            if listing.strip() ]
+        # print(parsed_listings)
+        return parsed_listings
 
-with open('listings.txt', 'w', encoding='utf-8') as f:
-    f.write("\n---\n".join(responses))
-    print('wrote: listings.txt')
+
+if __name__ == '__main__':
+    # Generate the listings
+    responses = []
+    for i in range(10):
+        response = llm(prompt)
+        responses.append( response )
+
+    with open('listings.txt', 'w', encoding='utf-8') as f:
+        f.write("\n---\n".join(responses))
+        print("\n---\n".join(responses))
+        print('wrote: listings.txt')
+
+
