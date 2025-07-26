@@ -1,3 +1,8 @@
+# Step 2: Generating Real Estate Listings
+# Generate real estate listings using a Large Language Model.
+# Generate at least 10 listings
+# This can involve creating prompts for the LLM to produce descriptions of various properties.
+
 import os
 import yaml
 from langchain.llms import OpenAI

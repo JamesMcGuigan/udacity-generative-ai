@@ -1,3 +1,13 @@
+# Step 3: Storing Listings in a Vector Database
+#
+# Vector Database Setup: Initialize and configure ChromaDB or a similar vector database to store real estate listings.
+# Generating and Storing Embeddings: Convert the LLM-generated listings into suitable embeddings
+# that capture the semantic content of each listing, and store these embeddings in the vector database.
+
+## BUGFIX: pydantic.errors.PydanticImportError: `BaseSettings` has been moved to the `pydantic-settings` package.
+# pip uninstall pydantic
+# pip install "pydantic<2.0"
+
 import openai
 import yaml
 import chromadb
@@ -14,25 +24,25 @@ def get_embedding(text):
     embedding = response["data"][0]["embedding"]
     return embedding
 
+chroma_client = chromadb.Client(Settings(
+    persist_directory="chroma_db"  # Path to your DB directory
+))
+collection = chroma_client.create_collection(name="real_estate_listings")
+
+listings = read_listings()
+for i, listing in enumerate(listings):
+    raw_yaml = yaml.dump(listing)
+    emb = get_embedding(raw_yaml)
+    collection.add(
+        ids=[f"listing_{i}"],
+        embeddings=[emb],
+        documents=[raw_yaml],  # Store full listing for retrieval
+        metadatas=[listing]    # Store as metadata for fast filtering
+    )
+    # Ignore Warning: Failed to send telemetry event collection_add: capture() takes 1 positional argument but 3 were given
+
 if __name__ == "__main__":
-    chroma_client = chromadb.Client(Settings(
-        persist_directory="chroma_db"  # Path to your DB directory
-    ))
-    collection = chroma_client.create_collection(name="real_estate_listings")
-
-    listings = read_listings()
-    for i, listing in enumerate(listings):
-        raw_yaml = yaml.dump(listing)
-        emb = get_embedding(raw_yaml)
-        collection.add(
-            ids=[f"listing_{i}"],
-            embeddings=[emb],
-            documents=[raw_yaml],  # Store full listing for retrieval
-            metadatas=[listing]    # Store as metadata for fast filtering
-        )
-        # Ignore Warning: Failed to send telemetry event collection_add: capture() takes 1 positional argument but 3 were given
-
     results = collection.get()     # Get everything (docs, embeddings, metadata, ids)
     print(results['ids'])          # List of all stored IDs
     print(results['metadatas'])    # Metadata dicts
-    # print(results['documents'])  # Your stored text or YAML
+    # print(results['documents`'])  # Your stored text or YAML
