@@ -1,100 +1,101 @@
-> Neighborhood: Riverfront Estates
-Price: $1,200,000
-Bedrooms: 4
-Bathrooms: 3.5
-House Size: 3,500 sqft
-
-Description: Live in luxury in this beautiful 4-bedroom, 3.5-bathroom home in the prestigious Riverfront Estates. The grand entrance leads to a spacious and elegantly designed living room with high ceilings and a fireplace, perfect for entertaining guests. The gourmet kitchen features top-of-the-line appliances and a large island, making it a chef's dream. Relax in the master suite with a spa-like bathroom and a walk-in closet. Enjoy summer evenings on the rooftop terrace overlooking the river. This luxurious home is a must-see for those seeking the finest in riverfront living.
-
-Neighborhood Description: Riverfront Estates is a highly sought-after gated community known for its stunning river views and upscale homes. Residents have access to a private marina, perfect for boating enthusiasts. The neighborhood is also home to a variety of upscale restaurants and shops, providing a luxurious lifestyle within walking distance. With easy access to downtown and a quiet, peaceful atmosphere, Riverfront Estates offers the best of both worlds.
----
-> Neighborhood: Oceanview
-Price: $1,200,000
-Bedrooms: 4
-Bathrooms: 3.5
-House Size: 3,500 sqft
-
-Description: Welcome to luxurious coastal living in the desirable neighborhood of Oceanview. This stunning 4-bedroom, 3.5-bathroom home boasts panoramic ocean views and high-end finishes throughout. The open concept living space features a gourmet kitchen with top-of-the-line appliances, perfect for entertaining guests. The master suite is a true oasis, complete with a spa-like bathroom and private balcony overlooking the ocean. Enjoy the ocean breeze from the rooftop deck or take a dip in the saltwater pool. Don't miss out on the chance to own this breathtaking beachfront property.
-
-Neighborhood Description: Oceanview is a premier beachfront community, known for its tranquil atmosphere and luxurious homes. With easy access to the beach and nearby hiking trails, residents can enjoy a variety of outdoor activities. The downtown area offers a variety of upscale restaurants and boutique shops, making it the perfect location for those looking for a blend of relaxation and entertainment. Live the ultimate beach lifestyle in Oceanview.
----
->Neighborhood: Ocean View
-Price: $1,200,000
-Bedrooms: 4
-Bathrooms: 3.5
-House Size: 3,500 sqft
-
-Description: Welcome to your own private luxury retreat in the beautiful neighborhood of Ocean View. This stunning 4-bedroom, 3.5-bathroom home boasts ocean views from almost every room. The spacious floor plan includes high-end finishes, vaulted ceilings, and large windows that provide an abundance of natural light. The gourmet kitchen features stainless steel appliances and a large island, perfect for hosting dinner parties. Step outside onto the rooftop deck and enjoy panoramic views of the ocean and surrounding mountains. This is luxurious coastal living at its finest.
-
-Neighborhood Description: Ocean View is a high-end community situated along the coast, offering breathtaking views, serene beaches, and a laid-back lifestyle. Residents can enjoy waterfront dining, boutique shops, and hiking trails with stunning ocean views. With easy access to nearby cities and airports, Ocean View is the perfect blend of luxury and convenience.
----
-> Neighborhood: Westview
-Price: $1,200,000
-Bedrooms: 4
-Bathrooms: 3.5
-House Size: 3,500 sqft
-
-Description: Experience luxury living in the desirable neighborhood of Westview. This stunning 4-bedroom, 3.5-bathroom home offers high-end finishes and modern amenities throughout. The chef's kitchen features top-of-the-line appliances, granite countertops, and ample storage space. The light-filled living room boasts a fireplace and views of the professionally landscaped backyard and outdoor oasis. Retreat to the spacious master suite with a spa-like bathroom and walk-in closet. With a finished basement, this home offers plenty of space for entertaining and everyday living.
-
-Neighborhood Description: Westview is a vibrant and sought-after neighborhood known for its historic charm and tree-lined streets. Enjoy a variety of restaurants, coffee shops, and boutiques within walking distance. Take a short drive to nearby attractions such as the Westview Cemetery and the Atlanta Beltline. This friendly community also offers easy access to excellent schools, making it the perfect location for families. Experience the best of city living in the peaceful neighborhood of Westview. 
----
-> Neighborhood: Harbor View
-Price: $1,200,000
-Bedrooms: 4
-Bathrooms: 3.5
-House Size: 3,500 sqft
-
-Description: Step inside this luxurious 4-bedroom, 3.5-bathroom home in the desirable Harbor View neighborhood. This custom-built property features high-end finishes such as marble countertops, hardwood floors, and custom cabinetry. Entertain guests in the spacious chef's kitchen, complete with a large island and top-of-the-line appliances. The grand master suite boasts a spa-like bathroom and a private balcony overlooking the stunning harbor views. With plenty of living space and a private backyard, this home is perfect for hosting family and friends.
-
-Neighborhood Description: Harbor View is an upscale waterfront community, known for its breathtaking views and luxury homes. Located just minutes from the bustling Harbor View Marina, residents can enjoy boating, fishing, and other water activities right at their doorstep. The neighborhood also offers top-rated restaurants, shopping, and entertainment options. Enjoy the best of both worlds in this serene and sophisticated neighborhood, just a short drive from the city.
----
-
-> Neighborhood: Waterfront Estates
-Price: $1,500,000
-Bedrooms: 5
-Bathrooms: 4
-House Size: 6,000 sqft
-
-Description: Live like royalty in this luxurious waterfront estate. This grand 5-bedroom, 4-bathroom home boasts over 6,000 sqft of living space, with picturesque views of the marina from every room. The grand foyer leads to a stunning living room with floor-to-ceiling windows, showcasing the serene waterfront setting. Enjoy entertaining in the chef's kitchen, complete with high-end appliances and a large island. The sprawling backyard features a private dock, perfect for boating enthusiasts. Indulge in waterfront living at its finest in this stunning estate.
-
-Neighborhood Description: Waterfront Estates is an exclusive community situated along the waterfront, offering residents a tranquil and upscale living experience. Enjoy access to top-rated schools, upscale restaurants, and boutique shopping just a short drive away. Take a leisurely walk along the marina or spend a day on the water with your boat right at your doorstep. With a private and serene atmosphere, this neighborhood is the perfect escape from the hustle and bustle of city life.
----
-> Neighborhood: Hillcrest Heights
-Price: $1,200,000
-Bedrooms: 5
-Bathrooms: 4
-House Size: 3,500 sqft
-
-Description: This stunning 5-bedroom, 4-bathroom home in Hillcrest Heights offers luxurious living at its finest. With high-end finishes and a modern design, this spacious property is perfect for entertaining. The gourmet kitchen features top-of-the-line appliances and a large island, while the open-concept living and dining area opens up to a breathtaking backyard with a sparkling pool and outdoor kitchen. The master suite boasts a private balcony, spa-like bathroom, and walk-in closet. This Hillcrest Heights gem is perfect for those who desire both comfort and style.
-
-Neighborhood Description: Located in a prime location, Hillcrest Heights is a highly sought-after neighborhood with tree-lined streets and upscale restaurants and shops. With close proximity to hiking trails and scenic views, residents can enjoy an active outdoor lifestyle. The community is also known for its top-rated schools, making this the ideal location for families. Don't miss the opportunity to call this luxurious and vibrant neighborhood home.
----
-> Neighborhood: Riverside Heights
-Price: $600,000
-Bedrooms: 4
-Bathrooms: 3.5
-House Size: 3,500 sqft
-
-Description: This newly renovated home in Riverside Heights combines modern luxury and historic charm. With 4 bedrooms and 3.5 bathrooms spread out over 3,500 square feet, there's plenty of space for a growing family. The gourmet kitchen features high-end appliances, granite countertops, and an island for extra prep space. The master suite boasts a spacious walk-in closet and a luxurious en-suite bathroom with a soaking tub and walk-in shower. Enjoy the Florida sunshine in the backyard oasis with a pool and covered patio, perfect for entertaining.
-
-Neighborhood Description: Riverside Heights is a vibrant and diverse community known for its historic bungalows and tree-lined streets. The neighborhood is within walking distance to popular restaurants, boutique shops, and local parks. With a strong sense of community and convenient access to downtown Tampa, Riverside Heights is the perfect location for families and young professionals alike. Come see for yourself why this neighborhood is the talk of the town.
----
-> Neighborhood: Ocean View
-Price: $1,200,000
-Bedrooms: 5
-Bathrooms: 3
-House Size: 3,500 sqft
-
-Description: Immerse yourself in luxury living with this stunning 5-bedroom, 3-bathroom oceanfront home in the beautiful neighborhood of Ocean View. This elegant property features high-end finishes, including marble countertops, hardwood floors, and floor-to-ceiling windows showcasing breathtaking ocean views. The spacious master suite boasts a private balcony and a spa-like bathroom. Enjoy a waterfront lifestyle with a private beach, boat dock, and outdoor entertainment area perfect for hosting guests. This Ocean View gem is the epitome of coastal living.
-
-Neighborhood Description: Ocean View offers the perfect balance of tranquility and convenience. Located just minutes from bustling downtown, residents can enjoy a peaceful seaside retreat while still having access to all the city has to offer. From beachfront restaurants to high-end boutiques, there is no shortage of entertainment options. The neighborhood also boasts top-rated schools, making it an ideal choice for families. End each day with a stunning sunset over the ocean and experience the best of coastal living in Ocean View.
----
-> Neighborhood: Bayview Heights
+Neighborhood: Silver Hills
 Price: $1,200,000
 Bedrooms: 4
 Bathrooms: 3
 House Size: 3,500 sqft
 
-Description: Fall in love with this stunning 4-bedroom, 3-bathroom home in the desirable neighborhood of Bayview Heights. As you step inside, you'll be greeted by soaring ceilings and an abundance of natural light. The modern kitchen with high-end appliances opens up to a spacious living room, perfect for entertaining guests. Relax in the luxurious master suite with a walk-in closet, en-suite bathroom, and private balcony with breathtaking views of the city. The backyard oasis features a pool and outdoor kitchen, perfect for enjoying the sunny California weather. Don't miss this opportunity to own a piece of paradise in Bayview Heights.
+Description: This luxurious 4-bedroom, 3-bathroom estate in Silver Hills is the epitome of elegance and sophistication. Step through the grand entrance to find a sprawling living room with high ceilings and elegant floor-to-ceiling windows. The chef's kitchen is equipped with top-of-the-line appliances, perfect for entertaining guests. Retreat to the spacious master suite with a stunning en-suite bathroom and private balcony overlooking the lush backyard. With a formal dining room, home office, and multiple outdoor seating areas, this home is perfect for hosting and enjoying the stunning views of Silver Hills.
 
-Neighborhood Description: Bayview Heights is a sought-after neighborhood known for its stunning views of the city and luxurious homes. Enjoy the convenience of living close to top-rated schools, trendy restaurants, and boutique shops. Spend weekends exploring the nearby beaches or hiking trails. With a strong sense of community, Bayview Heights is the perfect neighborhood for families and those looking for a peaceful yet vibrant lifestyle. 
+Neighborhood Description: Silver Hills is a highly desirable and affluent neighborhood, known for its stunning estates and manicured landscapes. Located only minutes away from the city center, residents can easily access shopping, dining, and entertainment options. The community is also home to the prestigious Silver Hills Country Club, offering golf, tennis, and fine dining experiences. Enjoy serene surroundings and a luxurious lifestyle in the sought-after community of Silver Hills.
+
+---
+Neighborhood: Historic Downtown District
+Price: $1,200,000
+Bedrooms: 5
+Bathrooms: 3
+House Size: 4,500 sqft
+
+Description: This breathtaking Victorian home is a true gem in the Historic Downtown District. Built in 1890, this 5-bedroom, 3-bathroom beauty has been meticulously restored and modernized while keeping its original charm. The grand foyer leads to elegant living spaces adorned with ornate details and original hardwood floors. The gourmet kitchen boasts high-end appliances and a large island, perfect for entertaining. Retreat to the luxurious master suite complete with a spa-like bathroom and private balcony. Enjoy the charming wrap-around porch and lush backyard, perfect for outdoor gatherings.
+
+Neighborhood Description: The Historic Downtown District is a vibrant and rich community with a mix of Victorian homes, local boutiques, and delicious dining options. Take a short walk to the weekly Farmer's Market or catch a show at the historic theater. Enjoy the bustling energy of the downtown area while still living in a tranquil and picturesque neighborhood. This is the perfect location for those seeking both convenience and charm.
+---
+Neighborhood: Beachside
+Price: $1,200,000
+Bedrooms: 4
+Bathrooms: 3.5
+House Size: 3,500 sqft
+
+Description: Experience coastal living at its finest in this stunning 4-bedroom, 3.5-bathroom home located in the desirable neighborhood of Beachside. This luxurious property features high-end finishes including polished hardwood floors, granite countertops, and top-of-the-line appliances. The open-concept living area boasts floor-to-ceiling windows, with breathtaking ocean views and access to a spacious deck, perfect for entertaining guests. The master suite includes a private balcony, a spa-like en-suite bathroom, and a walk-in closet. Relax and unwind in this coastal paradise just steps away from the beach.
+
+Neighborhood Description: Located on the shores of the Pacific Ocean, Beachside offers the perfect combination of luxury and seaside charm. This exclusive community features private beach access, a serene coastal lifestyle, and top-rated schools. Enjoy a variety of outdoor activities such as surfing, biking, and beach volleyball, or take a short drive to the bustling downtown area with an array of shops, restaurants, and entertainment options. With breathtaking views and a close-knit community feel, Beachside is the ultimate coastal destination.
+---
+Neighborhood: Waterfront Village
+Price: $1,200,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 3,500 sqft
+
+Description: This stunning waterfront property in the desirable Waterfront Village boasts 4 spacious bedrooms and 3 luxurious bathrooms. The modern and sleek design of this home is perfectly complemented by the breathtaking views of the lake from every room. The chef's kitchen features top-of-the-line appliances and a large island, perfect for entertaining. Relax in the oversized master suite with a spa-like bathroom and private balcony overlooking the water. Enjoy outdoor living on the spacious deck and private dock, where you can dock your boat and enjoy endless days on the lake from your own backyard.
+
+Neighborhood Description: Waterfront Village is a prestigious community known for its upscale waterfront properties and scenic views. This family-friendly neighborhood offers a variety of amenities, including a private marina, community pool, and tennis courts. Spend weekends exploring the beautiful lake on your boat or taking a walk on the nearby nature trails. With top-rated schools and easy access to shopping and dining, Waterfront Village is the perfect place to call home for those seeking a luxurious and active lifestyle.
+---
+Neighborhood: Westside Heights
+Price: $1,200,000
+Bedrooms: 5
+Bathrooms: 4
+House Size: 3,500 sqft
+
+Description: This stunning 5-bedroom, 4-bathroom home in Westside Heights is a true urban oasis. The modern and sleek design features an open floor plan, high ceilings, and ample natural light. The expansive chef's kitchen is a dream for entertaining with its top-of-the-line appliances and large center island. The spacious master suite includes a luxurious bathroom with a soaking tub and a walk-in closet. With a secluded backyard complete with a pool and outdoor kitchen, this home is the ultimate in luxurious living.
+
+Neighborhood Description: Westside Heights is a vibrant and bustling neighborhood known for its trendy restaurants, coffee shops, and boutiques. Enjoy a night out at one of the many acclaimed dining spots or catch a show at the nearby theater. The neighborhood is also home to several parks, including the popular Westside Heights Park, perfect for outdoor activities and picnics. With its convenient location, easy freeway access, and highly-rated schools, Westside Heights is the ideal spot for both urban professionals and families.
+---
+Neighborhood: Harbor View
+Price: $1,200,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 3,500 sqft
+
+Description: Experience luxury living in this stunning 4-bedroom, 3-bathroom home located in the coveted Harbor View neighborhood. With a grand entranceway, high ceilings, and expansive windows, this home is filled with natural light and offers breathtaking views of the harbor. The spacious gourmet kitchen features top-of-the-line appliances, perfect for entertaining guests. The master bedroom boasts a spa-like en-suite bathroom and a walk-in closet. Unwind in the backyard oasis complete with a pool, hot tub, and outdoor kitchen, all while enjoying the cool ocean breeze.
+
+Neighborhood Description: Harbor View is an upscale waterfront community known for its luxurious homes and stunning views. Residents have access to a private beach and yacht club, perfect for boating and water activities. The neighborhood is also home to a variety of high-end restaurants, boutique shops, and art galleries. With a prime location close to the city center and major highways, Harbor View offers the perfect blend of luxury, convenience, and coastal living.
+---
+Neighborhood: Downtown Heights
+Price: $1,200,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 3,500 sqft
+
+Description: Situated in the bustling and vibrant Downtown Heights neighborhood, this luxurious 4-bedroom, 3-bathroom penthouse offers the perfect combination of modern elegance and city living. Step into the spacious living room with high ceilings, floor-to-ceiling windows, and stunning skyline views. The sleek and contemporary kitchen features high-end appliances, perfect for gourmet cooking and entertaining. The master bedroom boasts a spa-like en suite bathroom and ample closet space. With top-of-the-line amenities such as a rooftop pool, fitness center, and 24-hour concierge service, this penthouse is the ultimate in urban living.
+
+Neighborhood Description: Known for its trendy restaurants, upscale boutiques, and lively nightlife, Downtown Heights is a must-visit destination in the city. From fine dining to casual eateries, this neighborhood offers a diverse culinary scene. The bustling streets are also filled with art galleries, theaters, and music venues, providing endless entertainment options. With easy access to public transportation and major highways, residents can easily explore all the city has to offer. 
+---
+Neighborhood: Seaside Heights
+Price: $1,200,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 2,500 sqft
+
+Description: Enjoy luxurious beachfront living in this stunning 4-bedroom, 3-bathroom home in Seaside Heights. Offering breathtaking ocean views from every room, this newly renovated property boasts an open floor plan, high ceilings, and high-end finishes throughout. The gourmet kitchen features top-of-the-line appliances and a large island, perfect for entertaining. Relax on the private balcony overlooking the beach or take a dip in the custom-made saltwater pool. This Seaside Heights gem is the perfect mix of luxury and beachfront living.
+
+Neighborhood Description: Seaside Heights is a vibrant coastal community with a lively boardwalk, charming boutique shops, and a variety of restaurants. Spend your days lounging on the beach or exploring the local attractions such as the Seaside Heights Carousel and Casino Pier. With easy access to major highways, this neighborhood is ideal for commuters and beach lovers alike. Don't miss your chance to own a piece of this coveted beach town. 
+---
+
+Neighborhood: Ocean View
+Price: $1,200,000
+Bedrooms: 4
+Bathrooms: 3
+House Size: 2,500 sqft
+
+Description: Imagine waking up every morning to breathtaking ocean views from the comfort of your own home. This stunning 4-bedroom, 3-bathroom house located in the coveted Ocean View neighborhood has been completely renovated with modern finishes and high-end appliances. The spacious layout and large windows allow for natural light to flood in, illuminating the sleek hardwood floors and vaulted ceilings. Enjoy entertaining in the chef's kitchen or relax on the rooftop deck while watching the sunset over the Pacific Ocean. This dream home is waiting for you in Ocean View.
+
+Neighborhood Description: Ocean View is a prestigious, upscale neighborhood located along the coast of Southern California. With its prime location, residents have easy access to beaches, hiking trails, and trendy restaurants. The community is known for its luxurious homes and stunning ocean views, making it a highly desirable place to live. Enjoy the best of coastal living in this exclusive Ocean View neighborhood.
+---
+Neighborhood: City Center
+Price: $1,200,000
+Bedrooms: 4
+Bathrooms: 3.5
+House Size: 3,500 sqft
+
+Description: Live in the lap of luxury in this modern, 4-bedroom home in the heart of City Center. The sleek and stylish design boasts high-end finishes and appliances, a spacious open-concept layout, and floor to ceiling windows that offer stunning city views. The gourmet kitchen features quartz countertops and top-of-the-line appliances, perfect for entertaining guests. The master suite offers a private sanctuary with a spa-like bathroom and walk-in closet. With a rooftop terrace, elevator, and a prime location, this home is the epitome of urban living.
+
+Neighborhood Description: Located in the bustling City Center, this neighborhood offers the best of city living. Dine at the famous Michelin-starred restaurants, catch a show at the nearby theater, or shop at the luxury designer boutiques. Enjoy the convenience and accessibility of city life with easy access to public transportation and major highways. Experience the ultimate urban lifestyle in the highly sought-after City Center.

@@ -16,7 +16,7 @@ prompt = """
 Generate 2 diverse and realistic real estate listing in the following format:
 
 ---
-> Neighborhood: [Neighborhood Name]
+Neighborhood: [Neighborhood Name]
 Price: [Price]
 Bedrooms: [Number of Bedrooms]
 Bathrooms: [Number of Bathrooms]
@@ -29,7 +29,7 @@ Neighborhood Description: [Description of the neighborhood]
 
 Example:
 ---
-> Neighborhood: Green Oaks
+Neighborhood: Green Oaks
 Price: $800,000
 Bedrooms: 3
 Bathrooms: 2
