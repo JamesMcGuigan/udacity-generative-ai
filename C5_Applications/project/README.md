@@ -28,6 +28,6 @@ python3 ./ChromaDB.py
 Hardcoded user input questions are converted into a ChromaDB embedding search.
 Top 3 results are then augmented with ChatGPT estate agent review  
 ```
-python3 ./questions.py
+python3 ./HomeMatch.py
 ```
 
